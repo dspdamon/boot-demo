@@ -1,0 +1,5 @@
+本demo是spring boot + spring data jps + shiro的一个简单demo
+数据库使用了mysql，但是为了前期方便，在DAO层做了模拟
+
+shiro参考：
+https://www.imooc.com/learn/977
